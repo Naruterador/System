@@ -111,3 +111,16 @@ c [number] motion
 #[number]是次数
 #motion是动作执行范围
 ```
+
+####  选中操作
+```shell
+#全选（高亮显示）
+Esc-ggvG/ggVG
+
+#全部复制
+Esc-ggyG
+
+#全部删除
+Esc-dG
+```
+
